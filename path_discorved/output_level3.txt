@@ -1,0 +1,639 @@
+Path discovered of level 3: [8, 11]
+The length of the discovered paths in level 3: 1
+Path discovered of level 3: [7, 11]
+The length of the discovered paths in level 3: 2
+Path discovered of level 3: [6, 11]
+The length of the discovered paths in level 3: 3
+Path discovered of level 3: [6, 10]
+The length of the discovered paths in level 3: 4
+Path discovered of level 3: [6, 9]
+The length of the discovered paths in level 3: 5
+Path discovered of level 3: [6, 8]
+The length of the discovered paths in level 3: 6
+Path discovered of level 3: [5, 8]
+The length of the discovered paths in level 3: 7
+Path discovered of level 3: [4, 8]
+The length of the discovered paths in level 3: 8
+Path discovered of level 3: [4, 7]
+The length of the discovered paths in level 3: 9
+Path discovered of level 3: [5, 7]
+The length of the discovered paths in level 3: 10
+Path discovered of level 3: [6, 7]
+The length of the discovered paths in level 3: 11
+Path discovered of level 3: [6, 6]
+The length of the discovered paths in level 3: 12
+Path discovered of level 3: [5, 6]
+The length of the discovered paths in level 3: 13
+Path discovered of level 3: [4, 6]
+The length of the discovered paths in level 3: 14
+Path discovered of level 3: [3, 6]
+The length of the discovered paths in level 3: 15
+Path discovered of level 3: [3, 7]
+The length of the discovered paths in level 3: 16
+Path discovered of level 3: [3, 8]
+The length of the discovered paths in level 3: 17
+Path discovered of level 3: [3, 9]
+The length of the discovered paths in level 3: 18
+Path discovered of level 3: [4, 9]
+The length of the discovered paths in level 3: 19
+Path discovered of level 3: [4, 8]
+The length of the discovered paths in level 3: 20
+Path discovered of level 3: [4, 7]
+The length of the discovered paths in level 3: 21
+Path discovered of level 3: [4, 6]
+The length of the discovered paths in level 3: 22
+Path discovered of level 3: [4, 5]
+The length of the discovered paths in level 3: 23
+Path discovered of level 3: [3, 5]
+The length of the discovered paths in level 3: 24
+Path discovered of level 3: [2, 5]
+The length of the discovered paths in level 3: 25
+Path discovered of level 3: [1, 5]
+The length of the discovered paths in level 3: 26
+Path discovered of level 3: [1, 4]
+The length of the discovered paths in level 3: 27
+Path discovered of level 3: [1, 3]
+The length of the discovered paths in level 3: 28
+Path discovered of level 3: [1, 2]
+The length of the discovered paths in level 3: 29
+Path discovered of level 3: [1, 1]
+The length of the discovered paths in level 3: 30
+Path discovered of level 3: [2, 1]
+The length of the discovered paths in level 3: 31
+Path discovered of level 3: [3, 1]
+The length of the discovered paths in level 3: 32
+Path discovered of level 3: [4, 1]
+The length of the discovered paths in level 3: 33
+Path discovered of level 3: [4, 2]
+The length of the discovered paths in level 3: 34
+Path discovered of level 3: [4, 3]
+The length of the discovered paths in level 3: 35
+Path discovered of level 3: [3, 3]
+The length of the discovered paths in level 3: 36
+Path discovered of level 3: [3, 4]
+The length of the discovered paths in level 3: 37
+Path discovered of level 3: [3, 5]
+The length of the discovered paths in level 3: 38
+Path discovered of level 3: [4, 5]
+The length of the discovered paths in level 3: 39
+Path discovered of level 3: [5, 5]
+The length of the discovered paths in level 3: 40
+Path discovered of level 3: [5, 6]
+The length of the discovered paths in level 3: 41
+Path discovered of level 3: [5, 7]
+The length of the discovered paths in level 3: 42
+Path discovered of level 3: [6, 7]
+The length of the discovered paths in level 3: 43
+Path discovered of level 3: [6, 6]
+The length of the discovered paths in level 3: 44
+Path discovered of level 3: [5, 6]
+The length of the discovered paths in level 3: 45
+Path discovered of level 3: [4, 6]
+The length of the discovered paths in level 3: 46
+Path discovered of level 3: [4, 5]
+The length of the discovered paths in level 3: 47
+Path discovered of level 3: [5, 5]
+The length of the discovered paths in level 3: 48
+Path discovered of level 3: [6, 5]
+The length of the discovered paths in level 3: 49
+Path discovered of level 3: [6, 6]
+The length of the discovered paths in level 3: 50
+Path discovered of level 3: [5, 6]
+The length of the discovered paths in level 3: 51
+Path discovered of level 3: [5, 5]
+The length of the discovered paths in level 3: 52
+Path discovered of level 3: [6, 5]
+The length of the discovered paths in level 3: 53
+Path discovered of level 3: [6, 6]
+The length of the discovered paths in level 3: 54
+Path discovered of level 3: [5, 6]
+The length of the discovered paths in level 3: 55
+Path discovered of level 3: [5, 5]
+The length of the discovered paths in level 3: 56
+Path discovered of level 3: [4, 5]
+The length of the discovered paths in level 3: 57
+Path discovered of level 3: [4, 6]
+The length of the discovered paths in level 3: 58
+Path discovered of level 3: [3, 6]
+The length of the discovered paths in level 3: 59
+Path discovered of level 3: [3, 7]
+The length of the discovered paths in level 3: 60
+Path discovered of level 3: [4, 7]
+The length of the discovered paths in level 3: 61
+Path discovered of level 3: [4, 8]
+The length of the discovered paths in level 3: 62
+Path discovered of level 3: [3, 8]
+The length of the discovered paths in level 3: 63
+Path discovered of level 3: [3, 9]
+The length of the discovered paths in level 3: 64
+Path discovered of level 3: [4, 9]
+The length of the discovered paths in level 3: 65
+Path discovered of level 3: [4, 8]
+The length of the discovered paths in level 3: 66
+Path discovered of level 3: [3, 8]
+The length of the discovered paths in level 3: 67
+Path discovered of level 3: [3, 7]
+The length of the discovered paths in level 3: 68
+Path discovered of level 3: [4, 7]
+The length of the discovered paths in level 3: 69
+Path discovered of level 3: [4, 8]
+The length of the discovered paths in level 3: 70
+Path discovered of level 3: [3, 8]
+The length of the discovered paths in level 3: 71
+Path discovered of level 3: [3, 9]
+The length of the discovered paths in level 3: 72
+Path discovered of level 3: [4, 9]
+The length of the discovered paths in level 3: 73
+Path discovered of level 3: [4, 8]
+The length of the discovered paths in level 3: 74
+Path discovered of level 3: [3, 8]
+The length of the discovered paths in level 3: 75
+Path discovered of level 3: [3, 7]
+The length of the discovered paths in level 3: 76
+Path discovered of level 3: [3, 6]
+The length of the discovered paths in level 3: 77
+Path discovered of level 3: [3, 5]
+The length of the discovered paths in level 3: 78
+Path discovered of level 3: [2, 5]
+The length of the discovered paths in level 3: 79
+Path discovered of level 3: [1, 5]
+The length of the discovered paths in level 3: 80
+Path discovered of level 3: [1, 6]
+The length of the discovered paths in level 3: 81
+Path discovered of level 3: [1, 7]
+The length of the discovered paths in level 3: 82
+Path discovered of level 3: [1, 8]
+The length of the discovered paths in level 3: 83
+Path discovered of level 3: [1, 9]
+The length of the discovered paths in level 3: 84
+Path discovered of level 3: [1, 10]
+The length of the discovered paths in level 3: 85
+Path discovered of level 3: [1, 11]
+The length of the discovered paths in level 3: 86
+Path discovered of level 3: [2, 11]
+The length of the discovered paths in level 3: 87
+Path discovered of level 3: [3, 11]
+The length of the discovered paths in level 3: 88
+Path discovered of level 3: [4, 11]
+The length of the discovered paths in level 3: 89
+Path discovered of level 3: [4, 10]
+The length of the discovered paths in level 3: 90
+Path discovered of level 3: [4, 9]
+The length of the discovered paths in level 3: 91
+Path discovered of level 3: [5, 9]
+The length of the discovered paths in level 3: 92
+Path discovered of level 3: [6, 9]
+The length of the discovered paths in level 3: 93
+Path discovered of level 3: [7, 9]
+The length of the discovered paths in level 3: 94
+Path discovered of level 3: [8, 9]
+The length of the discovered paths in level 3: 95
+Path discovered of level 3: [8, 8]
+The length of the discovered paths in level 3: 96
+Path discovered of level 3: [8, 7]
+The length of the discovered paths in level 3: 97
+Path discovered of level 3: [9, 7]
+The length of the discovered paths in level 3: 98
+Path discovered of level 3: [10, 7]
+The length of the discovered paths in level 3: 99
+Path discovered of level 3: [11, 7]
+The length of the discovered paths in level 3: 100
+Path discovered of level 3: [10, 7]
+The length of the discovered paths in level 3: 101
+Path discovered of level 3: [9, 7]
+The length of the discovered paths in level 3: 102
+Path discovered of level 3: [8, 7]
+The length of the discovered paths in level 3: 103
+Path discovered of level 3: [8, 8]
+The length of the discovered paths in level 3: 104
+Path discovered of level 3: [8, 9]
+The length of the discovered paths in level 3: 105
+Path discovered of level 3: [7, 9]
+The length of the discovered paths in level 3: 106
+Path discovered of level 3: [6, 9]
+The length of the discovered paths in level 3: 107
+Path discovered of level 3: [6, 8]
+The length of the discovered paths in level 3: 108
+Path discovered of level 3: [6, 7]
+The length of the discovered paths in level 3: 109
+Path discovered of level 3: [6, 6]
+The length of the discovered paths in level 3: 110
+Path discovered of level 3: [6, 5]
+The length of the discovered paths in level 3: 111
+Path discovered of level 3: [7, 5]
+The length of the discovered paths in level 3: 112
+Path discovered of level 3: [8, 5]
+The length of the discovered paths in level 3: 113
+Path discovered of level 3: [9, 5]
+The length of the discovered paths in level 3: 114
+Path discovered of level 3: [9, 4]
+The length of the discovered paths in level 3: 115
+Path discovered of level 3: [9, 3]
+The length of the discovered paths in level 3: 116
+Path discovered of level 3: [10, 3]
+The length of the discovered paths in level 3: 117
+Path discovered of level 3: [10, 4]
+The length of the discovered paths in level 3: 118
+Path discovered of level 3: [9, 4]
+The length of the discovered paths in level 3: 119
+Path discovered of level 3: [9, 5]
+The length of the discovered paths in level 3: 120
+Path discovered of level 3: [8, 5]
+The length of the discovered paths in level 3: 121
+Path discovered of level 3: [7, 5]
+The length of the discovered paths in level 3: 122
+Path discovered of level 3: [6, 5]
+The length of the discovered paths in level 3: 123
+Path discovered of level 3: [6, 4]
+The length of the discovered paths in level 3: 124
+Path discovered of level 3: [6, 3]
+The length of the discovered paths in level 3: 125
+Path discovered of level 3: [5, 3]
+The length of the discovered paths in level 3: 126
+Path discovered of level 3: [4, 3]
+The length of the discovered paths in level 3: 127
+Path discovered of level 3: [4, 2]
+The length of the discovered paths in level 3: 128
+Path discovered of level 3: [4, 1]
+The length of the discovered paths in level 3: 129
+Path discovered of level 3: [3, 1]
+The length of the discovered paths in level 3: 130
+Path discovered of level 3: [2, 1]
+The length of the discovered paths in level 3: 131
+Path discovered of level 3: [1, 1]
+The length of the discovered paths in level 3: 132
+Path discovered of level 3: [1, 2]
+The length of the discovered paths in level 3: 133
+Path discovered of level 3: [1, 3]
+The length of the discovered paths in level 3: 134
+Path discovered of level 3: [1, 2]
+The length of the discovered paths in level 3: 135
+Path discovered of level 3: [1, 1]
+The length of the discovered paths in level 3: 136
+Path discovered of level 3: [2, 1]
+The length of the discovered paths in level 3: 137
+Path discovered of level 3: [3, 1]
+The length of the discovered paths in level 3: 138
+Path discovered of level 3: [4, 1]
+The length of the discovered paths in level 3: 139
+Path discovered of level 3: [4, 2]
+The length of the discovered paths in level 3: 140
+Path discovered of level 3: [4, 3]
+The length of the discovered paths in level 3: 141
+Path discovered of level 3: [3, 3]
+The length of the discovered paths in level 3: 142
+Path discovered of level 3: [3, 4]
+The length of the discovered paths in level 3: 143
+Path discovered of level 3: [3, 5]
+The length of the discovered paths in level 3: 144
+Path discovered of level 3: [4, 5]
+The length of the discovered paths in level 3: 145
+Path discovered of level 3: [5, 5]
+The length of the discovered paths in level 3: 146
+Path discovered of level 3: [6, 5]
+The length of the discovered paths in level 3: 147
+Path discovered of level 3: [7, 5]
+The length of the discovered paths in level 3: 148
+Path discovered of level 3: [8, 5]
+The length of the discovered paths in level 3: 149
+Path discovered of level 3: [7, 5]
+The length of the discovered paths in level 3: 150
+Path discovered of level 3: [6, 5]
+The length of the discovered paths in level 3: 151
+Path discovered of level 3: [6, 4]
+The length of the discovered paths in level 3: 152
+Path discovered of level 3: [6, 3]
+The length of the discovered paths in level 3: 153
+Path discovered of level 3: [6, 2]
+The length of the discovered paths in level 3: 154
+Path discovered of level 3: [6, 1]
+The length of the discovered paths in level 3: 155
+Path discovered of level 3: [7, 1]
+The length of the discovered paths in level 3: 156
+Path discovered of level 3: [8, 1]
+The length of the discovered paths in level 3: 157
+Path discovered of level 3: [7, 1]
+The length of the discovered paths in level 3: 158
+Path discovered of level 3: [6, 1]
+The length of the discovered paths in level 3: 159
+Path discovered of level 3: [6, 2]
+The length of the discovered paths in level 3: 160
+Path discovered of level 3: [6, 3]
+The length of the discovered paths in level 3: 161
+Path discovered of level 3: [7, 3]
+The length of the discovered paths in level 3: 162
+Path discovered of level 3: [6, 3]
+The length of the discovered paths in level 3: 163
+Path discovered of level 3: [6, 2]
+The length of the discovered paths in level 3: 164
+Path discovered of level 3: [6, 1]
+The length of the discovered paths in level 3: 165
+Path discovered of level 3: [7, 1]
+The length of the discovered paths in level 3: 166
+Path discovered of level 3: [8, 1]
+The length of the discovered paths in level 3: 167
+Path discovered of level 3: [9, 1]
+The length of the discovered paths in level 3: 168
+Path discovered of level 3: [10, 1]
+The length of the discovered paths in level 3: 169
+Path discovered of level 3: [10, 2]
+The length of the discovered paths in level 3: 170
+Path discovered of level 3: [10, 3]
+The length of the discovered paths in level 3: 171
+Path discovered of level 3: [10, 4]
+The length of the discovered paths in level 3: 172
+Path discovered of level 3: [9, 4]
+The length of the discovered paths in level 3: 173
+Path discovered of level 3: [9, 3]
+The length of the discovered paths in level 3: 174
+Path discovered of level 3: [10, 3]
+The length of the discovered paths in level 3: 175
+Path discovered of level 3: [10, 4]
+The length of the discovered paths in level 3: 176
+Path discovered of level 3: [9, 4]
+The length of the discovered paths in level 3: 177
+Path discovered of level 3: [9, 3]
+The length of the discovered paths in level 3: 178
+Path discovered of level 3: [9, 4]
+The length of the discovered paths in level 3: 179
+Path discovered of level 3: [10, 4]
+The length of the discovered paths in level 3: 180
+Path discovered of level 3: [10, 5]
+The length of the discovered paths in level 3: 181
+Path discovered of level 3: [11, 5]
+The length of the discovered paths in level 3: 182
+Path discovered of level 3: [10, 5]
+The length of the discovered paths in level 3: 183
+Path discovered of level 3: [9, 5]
+The length of the discovered paths in level 3: 184
+Path discovered of level 3: [9, 4]
+The length of the discovered paths in level 3: 185
+Path discovered of level 3: [10, 4]
+The length of the discovered paths in level 3: 186
+Path discovered of level 3: [10, 3]
+The length of the discovered paths in level 3: 187
+Path discovered of level 3: [9, 3]
+The length of the discovered paths in level 3: 188
+Path discovered of level 3: [9, 4]
+The length of the discovered paths in level 3: 189
+Path discovered of level 3: [9, 5]
+The length of the discovered paths in level 3: 190
+Path discovered of level 3: [8, 5]
+The length of the discovered paths in level 3: 191
+Path discovered of level 3: [7, 5]
+The length of the discovered paths in level 3: 192
+Path discovered of level 3: [6, 5]
+The length of the discovered paths in level 3: 193
+Path discovered of level 3: [6, 4]
+The length of the discovered paths in level 3: 194
+Path discovered of level 3: [6, 3]
+The length of the discovered paths in level 3: 195
+Path discovered of level 3: [6, 2]
+The length of the discovered paths in level 3: 196
+Path discovered of level 3: [6, 1]
+The length of the discovered paths in level 3: 197
+Path discovered of level 3: [7, 1]
+The length of the discovered paths in level 3: 198
+Path discovered of level 3: [8, 1]
+The length of the discovered paths in level 3: 199
+Path discovered of level 3: [9, 1]
+The length of the discovered paths in level 3: 200
+Path discovered of level 3: [10, 1]
+The length of the discovered paths in level 3: 201
+Path discovered of level 3: [11, 1]
+The length of the discovered paths in level 3: 202
+Path discovered of level 3: [12, 1]
+The length of the discovered paths in level 3: 203
+Path discovered of level 3: [13, 1]
+The length of the discovered paths in level 3: 204
+Path discovered of level 3: [13, 2]
+The length of the discovered paths in level 3: 205
+Path discovered of level 3: [13, 3]
+The length of the discovered paths in level 3: 206
+Path discovered of level 3: [12, 3]
+The length of the discovered paths in level 3: 207
+Path discovered of level 3: [13, 3]
+The length of the discovered paths in level 3: 208
+Path discovered of level 3: [13, 4]
+The length of the discovered paths in level 3: 209
+Path discovered of level 3: [13, 5]
+The length of the discovered paths in level 3: 210
+Path discovered of level 3: [13, 6]
+The length of the discovered paths in level 3: 211
+Path discovered of level 3: [13, 7]
+The length of the discovered paths in level 3: 212
+Path discovered of level 3: [13, 8]
+The length of the discovered paths in level 3: 213
+Path discovered of level 3: [13, 9]
+The length of the discovered paths in level 3: 214
+Path discovered of level 3: [13, 10]
+The length of the discovered paths in level 3: 215
+Path discovered of level 3: [13, 11]
+The length of the discovered paths in level 3: 216
+Path discovered of level 3: [12, 11]
+The length of the discovered paths in level 3: 217
+Path discovered of level 3: [11, 11]
+The length of the discovered paths in level 3: 218
+Path discovered of level 3: [10, 11]
+The length of the discovered paths in level 3: 219
+Path discovered of level 3: [9, 11]
+The length of the discovered paths in level 3: 220
+Path discovered of level 3: [8, 11]
+The length of the discovered paths in level 3: 221
+Path discovered of level 3: [7, 11]
+The length of the discovered paths in level 3: 222
+Path discovered of level 3: [6, 11]
+The length of the discovered paths in level 3: 223
+Path discovered of level 3: [6, 10]
+The length of the discovered paths in level 3: 224
+Path discovered of level 3: [6, 9]
+The length of the discovered paths in level 3: 225
+Path discovered of level 3: [7, 9]
+The length of the discovered paths in level 3: 226
+Path discovered of level 3: [8, 9]
+The length of the discovered paths in level 3: 227
+Path discovered of level 3: [8, 8]
+The length of the discovered paths in level 3: 228
+Path discovered of level 3: [8, 7]
+The length of the discovered paths in level 3: 229
+Path discovered of level 3: [9, 7]
+The length of the discovered paths in level 3: 230
+Path discovered of level 3: [10, 7]
+The length of the discovered paths in level 3: 231
+Path discovered of level 3: [11, 7]
+The length of the discovered paths in level 3: 232
+Path discovered of level 3: [10, 7]
+The length of the discovered paths in level 3: 233
+Path discovered of level 3: [9, 7]
+The length of the discovered paths in level 3: 234
+Path discovered of level 3: [8, 7]
+The length of the discovered paths in level 3: 235
+Path discovered of level 3: [8, 8]
+The length of the discovered paths in level 3: 236
+Path discovered of level 3: [8, 9]
+The length of the discovered paths in level 3: 237
+Path discovered of level 3: [9, 9]
+The length of the discovered paths in level 3: 238
+Path discovered of level 3: [10, 9]
+The length of the discovered paths in level 3: 239
+Path discovered of level 3: [11, 9]
+The length of the discovered paths in level 3: 240
+Path discovered of level 3: [12, 9]
+The length of the discovered paths in level 3: 241
+Path discovered of level 3: [13, 9]
+The length of the discovered paths in level 3: 242
+Path discovered of level 3: [13, 8]
+The length of the discovered paths in level 3: 243
+Path discovered of level 3: [13, 7]
+The length of the discovered paths in level 3: 244
+Path discovered of level 3: [13, 6]
+The length of the discovered paths in level 3: 245
+Path discovered of level 3: [13, 5]
+The length of the discovered paths in level 3: 246
+Path discovered of level 3: [13, 4]
+The length of the discovered paths in level 3: 247
+Path discovered of level 3: [14, 4]
+The length of the discovered paths in level 3: 248
+Path discovered of level 3: [14, 3]
+The length of the discovered paths in level 3: 249
+Path discovered of level 3: [15, 3]
+The length of the discovered paths in level 3: 250
+Path discovered of level 3: [15, 2]
+The length of the discovered paths in level 3: 251
+Path discovered of level 3: [15, 1]
+The length of the discovered paths in level 3: 252
+Path discovered of level 3: [16, 1]
+The length of the discovered paths in level 3: 253
+Path discovered of level 3: [16, 2]
+The length of the discovered paths in level 3: 254
+Path discovered of level 3: [16, 3]
+The length of the discovered paths in level 3: 255
+Path discovered of level 3: [16, 4]
+The length of the discovered paths in level 3: 256
+Path discovered of level 3: [15, 4]
+The length of the discovered paths in level 3: 257
+Path discovered of level 3: [15, 5]
+The length of the discovered paths in level 3: 258
+Path discovered of level 3: [16, 5]
+The length of the discovered paths in level 3: 259
+Path discovered of level 3: [16, 4]
+The length of the discovered paths in level 3: 260
+Path discovered of level 3: [16, 3]
+The length of the discovered paths in level 3: 261
+Path discovered of level 3: [16, 2]
+The length of the discovered paths in level 3: 262
+Path discovered of level 3: [17, 2]
+The length of the discovered paths in level 3: 263
+Path discovered of level 3: [17, 1]
+The length of the discovered paths in level 3: 264
+Path discovered of level 3: [18, 1]
+The length of the discovered paths in level 3: 265
+Path discovered of level 3: [18, 2]
+The length of the discovered paths in level 3: 266
+Path discovered of level 3: [18, 3]
+The length of the discovered paths in level 3: 267
+Path discovered of level 3: [18, 4]
+The length of the discovered paths in level 3: 268
+Path discovered of level 3: [18, 5]
+The length of the discovered paths in level 3: 269
+Path discovered of level 3: [18, 6]
+The length of the discovered paths in level 3: 270
+Path discovered of level 3: [18, 7]
+The length of the discovered paths in level 3: 271
+Path discovered of level 3: [18, 8]
+The length of the discovered paths in level 3: 272
+Path discovered of level 3: [18, 9]
+The length of the discovered paths in level 3: 273
+Path discovered of level 3: [18, 10]
+The length of the discovered paths in level 3: 274
+Path discovered of level 3: [18, 11]
+The length of the discovered paths in level 3: 275
+Path discovered of level 3: [17, 11]
+The length of the discovered paths in level 3: 276
+Path discovered of level 3: [16, 11]
+The length of the discovered paths in level 3: 277
+Path discovered of level 3: [15, 11]
+The length of the discovered paths in level 3: 278
+Path discovered of level 3: [15, 10]
+The length of the discovered paths in level 3: 279
+Path discovered of level 3: [15, 9]
+The length of the discovered paths in level 3: 280
+Path discovered of level 3: [15, 8]
+The length of the discovered paths in level 3: 281
+Path discovered of level 3: [15, 7]
+The length of the discovered paths in level 3: 282
+Path discovered of level 3: [15, 6]
+The length of the discovered paths in level 3: 283
+Path discovered of level 3: [16, 6]
+The length of the discovered paths in level 3: 284
+Path discovered of level 3: [16, 7]
+The length of the discovered paths in level 3: 285
+Path discovered of level 3: [16, 8]
+The length of the discovered paths in level 3: 286
+Path discovered of level 3: [15, 8]
+The length of the discovered paths in level 3: 287
+Path discovered of level 3: [15, 7]
+The length of the discovered paths in level 3: 288
+Path discovered of level 3: [16, 7]
+The length of the discovered paths in level 3: 289
+Path discovered of level 3: [16, 6]
+The length of the discovered paths in level 3: 290
+Path discovered of level 3: [16, 5]
+The length of the discovered paths in level 3: 291
+Path discovered of level 3: [17, 5]
+The length of the discovered paths in level 3: 292
+Path discovered of level 3: [18, 5]
+The length of the discovered paths in level 3: 293
+Path discovered of level 3: [18, 4]
+The length of the discovered paths in level 3: 294
+Path discovered of level 3: [18, 3]
+The length of the discovered paths in level 3: 295
+Path discovered of level 3: [18, 2]
+The length of the discovered paths in level 3: 296
+Path discovered of level 3: [17, 2]
+The length of the discovered paths in level 3: 297
+Path discovered of level 3: [16, 2]
+The length of the discovered paths in level 3: 298
+Path discovered of level 3: [15, 2]
+The length of the discovered paths in level 3: 299
+Path discovered of level 3: [15, 1]
+The length of the discovered paths in level 3: 300
+Path discovered of level 3: [16, 1]
+The length of the discovered paths in level 3: 301
+Path discovered of level 3: [16, 2]
+The length of the discovered paths in level 3: 302
+Path discovered of level 3: [15, 2]
+The length of the discovered paths in level 3: 303
+Path discovered of level 3: [15, 1]
+The length of the discovered paths in level 3: 304
+Path discovered of level 3: [16, 1]
+The length of the discovered paths in level 3: 305
+Path discovered of level 3: [16, 2]
+The length of the discovered paths in level 3: 306
+Path discovered of level 3: [15, 2]
+The length of the discovered paths in level 3: 307
+Path discovered of level 3: [15, 3]
+The length of the discovered paths in level 3: 308
+Path discovered of level 3: [14, 3]
+The length of the discovered paths in level 3: 309
+Path discovered of level 3: [13, 3]
+The length of the discovered paths in level 3: 310
+Path discovered of level 3: [12, 3]
+The length of the discovered paths in level 3: 311
+Path discovered of level 3: [13, 3]
+The length of the discovered paths in level 3: 312
+Path discovered of level 3: [13, 2]
+The length of the discovered paths in level 3: 313
+Path discovered of level 3: [13, 1]
+The length of the discovered paths in level 3: 314
+Path discovered of level 3: [12, 1]
+The length of the discovered paths in level 3: 315
+Path discovered of level 3: [11, 1]
+The length of the discovered paths in level 3: 316
+Path discovered of level 3: [10, 1]
+The length of the discovered paths in level 3: 317
+Path discovered of level 3: [9, 1]
+The length of the discovered paths in level 3: 318
+Pacman win the game
+Point of pacman in level 3: 1542
+Time to finish in level 3: 13.98s
